@@ -12,5 +12,6 @@ Open terminal, and `cd` to the project directory. Then run the following command
 `pip3 install requests`  
 
 Now you may modify the code however you like.  
-Use `python3 main.py` to run the code.  
+Use command `python3 main.py` to run the code.  
+
 For better view, open the `posts.csv` file using Microsoft Excel or Numbers (on mac) application.
