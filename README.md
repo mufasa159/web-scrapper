@@ -2,6 +2,7 @@
 
 A tiny python program to scrap informations from websites. The file `main.py` scraps title, link and author's name from each post of [The NY Times](https://www.nytimes.com/section/technology)' technology section, and saves it in `posts.csv` file.
 
+[![Run on Repl.it](https://repl.it/badge/github/muhfasul159/web-scrapper)](https://repl.it/github/muhfasul159/web-scrapper)
 
 ### Installation
 
